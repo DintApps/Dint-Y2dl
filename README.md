@@ -1,2 +1,2 @@
 # Dint-Y2dl
-macOS yt-dlp GUI
+FREE macOS [yt-dlp](https://github.com/yt-dlp/yt-dlp/) GUI
